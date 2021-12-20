@@ -1,0 +1,90 @@
+.row {
+    max-width: 80%;
+    max-height: 900px;
+    margin-left: 3.5cm;
+    margin-top: 1.5cm;
+    border: 2px solid black;
+}
+
+.event {
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.noSeats {
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: normal;
+    font-size: 25px;
+    margin-top: 1cm;
+}
+
+.second-row {
+    max-width:900px;
+    max-height: auto;
+    margin-left: 2cm;
+    border: 2px solid black;
+}
+
+.profile-photo {
+    width: 250px;
+    height: 250px;
+    margin-top: 2.5cm;
+    margin-left: 1.5cm;
+}
+
+
+label {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+input {
+    width : 300px;
+    height: 1cm;
+    border-radius: 4px;
+    border : 1.5px solid black;
+    font-size: 15px;
+}
+
+.drop {
+    width : 300px;
+    height: 1cm;
+    border-radius: 4px;
+    border : 1.5px solid black
+}
+
+.col-2 {
+    margin-top: -7cm;
+    margin-left: 9cm;
+}
+
+
+td {
+    text-align: right;
+}
+
+.submit {
+    background-color: dodgerblue;
+    color: white;
+    width: 4cm;
+    height: 1cm;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-top: 1cm;
+}
+
+.cancel {
+    background-color: rgb(255, 0, 0);
+    color: white;
+    width: 4cm;
+    height: 1cm;
+    text-align: center;
+    border-radius: 5px;
+    margin-top: 1cm;
+    font-size: 20px;
+    float: left;
+}
